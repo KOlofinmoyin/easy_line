@@ -1,4 +1,6 @@
 # Easy line
+[![Build Status](https://travis-ci.com/KOlofinmoyin/easy_line.svg?branch=master)](https://travis-ci.com/KOlofinmoyin/easy_line)
+
 In the drawing below we have a part of the Pascal's triangle, lines are numbered from zero (top).
 
 We want to calculate the sum of the squares of the binomial coefficients on a given line with a function called easyline (or easyLine or easy-line).
